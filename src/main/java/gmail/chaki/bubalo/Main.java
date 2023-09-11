@@ -8,5 +8,6 @@ public class Main {
 
     private static String getMessage() {
         return "Hello qa.quru";
+        System.out.println("Hello qa.quru!!!!!!");
     }
 }
